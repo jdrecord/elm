@@ -1,4 +1,4 @@
-# 本地sign https://t.me/sksjsjskjsgmail/15
+# 本地sign搭建 https://t.me/sksjsjskjsgmail/19
 # 原版文件直接改HOST即可使用，无上传ck
 process.env.HOST = 'http://sign.llol.me:9020'
 ## 拉库即用
