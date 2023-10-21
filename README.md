@@ -3,7 +3,7 @@
 ```
 bash <(curl -sSL https://ghproxy.com/https://raw.githubusercontent.com/pingxian/elmsign/main/elmsign.sh)
 ```
-
+最新验证卡密可用
 ## 拉库即用
 ```
 ql repo https://github.com/pingxian/elm.git "^ele" "" "USER|common|ql|sendNotify1|ele_coupon_rely"
