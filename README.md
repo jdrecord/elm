@@ -1,7 +1,7 @@
 # 本地sign搭建
 ## 一键
 ```
-bash <(curl -sSL https://ghproxy.com/https://raw.githubusercontent.com/pingxian/elmsign/main/elmsign.sh)
+bash <(curl -sSL https://ghproxy.com/https://raw.githubusercontent.com//elmsign/main/elmsign.sh)
 ```
 最新验证卡密可用
 ## 拉库即用
